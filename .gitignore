@@ -1,0 +1,8 @@
+# Ignorer le dossier .env
+.ipynb_checkpoints/
+
+# Ignorer tous les fichiers .DS_Store
+.DS_Store
+
+# Ignorer le dossier __pycache__
+*.csv
